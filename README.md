@@ -1,15 +1,8 @@
 # columnandrow
 
-A new Flutter project.
+Description:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A Flutter application designed to demonstrate the practical implementation of Column and Row widgets for creating responsive layouts. This app includes examples of aligning elements, managing spacing, and styling text alongside images. The Row widget displays horizontally aligned components with even spacing, while the Column widget illustrates vertically stacked elements with customizable alignment. Ideal for learning and understanding Flutter's layout system and how to create visually appealing user interfaces.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
